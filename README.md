@@ -29,9 +29,9 @@ Hola, soy Claudio Riffo, Frontend Developer. Enfocado en el mundo del desarrollo
 
 - 🔥 vuejs lovers
 - 🌱 Actualmente estoy aprendiento <code>
+ <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React, 
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> Redux; 
 - 🤔 Explorando nuevas tecnologías;
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>; 
 - 🤝🏻 Contáctate conmigo: claudiolr93@gmail.com;
 - 📝 portafolio:
 
