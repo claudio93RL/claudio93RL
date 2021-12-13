@@ -28,12 +28,13 @@ Hola, soy Claudio Riffo, Frontend Developer. Enfocado en el mundo del desarrollo
 ### <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> Un poco más sobre mí ...  
 
 - 🔥 vuejs lovers
-- 🌱 Actualmente estoy aprendiento <code>
+- 🌱 Actualmente estoy aprendiendo <code>
  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React, 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> Redux; 
 - 🤔 Explorando nuevas tecnologías;
 - 🤝🏻 Contáctate conmigo: claudiolr93@gmail.com;
-- 📝 portafolio:
+- 📝 portafolio: https://claudio93rl.github.io/portafolio/
+- ⚡ Proyecto titulo: https://mapsevents-8785e.web.app 
 
 **Tecnologías:**  
 
