@@ -34,7 +34,7 @@ Hola, soy Claudio Riffo, Frontend Developer. Enfocado en el mundo del desarrollo
 - 🤔 Explorando nuevas tecnologías;
 - 🤝🏻 Contáctate conmigo: claudiolr93@gmail.com;
 - 📝 portafolio: https://claudio93rl.github.io/portafolio/
-- ⚡ Proyecto titulo: https://mapsevents-8785e.web.app 
+- ⚡ Proyecto título: https://mapsevents-8785e.web.app 
 
 **Tecnologías:**  
 
